@@ -9,6 +9,8 @@ brew "fnm"
 brew "pnpm"
 # Cross-shell prompt for astronauts
 brew "starship"
+# Organize software neatly under a single directory tree (e.g. /usr/local)
+brew "stow"
 # Command-line interface for Vercel
 brew "vercel-cli"
 # JavaScript package manager
