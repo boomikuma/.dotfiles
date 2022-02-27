@@ -1,2 +1,3 @@
 .fig/*
 !.fig/settings.json
+.DS_Store
