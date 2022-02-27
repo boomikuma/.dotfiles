@@ -1,3 +1,4 @@
 {
-  "app.hideMenubarIcon" : true
+  "app.hideMenubarIcon" : true,
+  "autocomplete.disable" : false
 }
