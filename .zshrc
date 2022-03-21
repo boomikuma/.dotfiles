@@ -21,5 +21,9 @@ eval "$(starship init zsh)"
 eval "$(direnv hook zsh)"
 export DIRENV_LOG_FORMAT=""
 
+# thefuck
+eval $(thefuck --alias)
+
 # Fig post block. Keep at the bottom of this file.
 eval "$(fig init zsh post)"
+
